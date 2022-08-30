@@ -46,5 +46,5 @@ The bulk of the data can only be downloaded from [sharepoint](https://dtudk.shar
 
 Authors:
 - Andreas Kaae, s154395
-- Silvia De Sojo, s192374
+- Silvia De Sojo Caso, s192374
 - Pietro Rampazzo, s203257
